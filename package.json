@@ -1,0 +1,22 @@
+{
+  "name": "@danjun211/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "./index.json",
+  "homepage": "https://github.com/danjun211/prettier-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjun211/prettier-config.git"
+    },
+  "author": "Junyeol Lee <vic2ori@naver.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "publish-manual": "npm publish"
+  }
+}
